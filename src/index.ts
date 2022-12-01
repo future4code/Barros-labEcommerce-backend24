@@ -1,13 +1,8 @@
-import express from 'express';
+import app from "./app";
+import { createCharacter } from "./endponits/createCharecters";
+import { deleteCharacter } from "./endponits/deleteCharacter";
+import getAllChacters from "./endponits/getAllCharacters"
 
-import cors from 'cors';
-
-const app = express();
-
-app.use(express.json());
-
-app.use(cors());
-
-app.listen(3003,()=>{
-    console.log('Server is running in http://localhost:3003');
-})
+app.get("/character", getAllChacters)
+app.put("/character", createCharacter)
+app.delete("/character/:id", deleteCharacter)
