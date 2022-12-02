@@ -15,9 +15,7 @@
 ### O que Funciona 
 
 ##### Endpoints 
- -- GET (getAllCharacters)
- -- PUT (createCharecters)
- -- DELETE (deleteCharacter)
+ -- GET (getAllCharacters), PUT (createCharecters), DELETE (deleteCharacter)
 
 ### O que Não Funciona
 
