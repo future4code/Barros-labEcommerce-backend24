@@ -1,4 +1,27 @@
-# labEcommerce-backend
+# API LAB_ECOMMERC REVISÂO
 
+## Esta API tem como objetivo web service de criação, consulta e exclusão de atores e filmes destintos.
 
-### Coloque as informações do seu projeto, o link da documentação e o link deploy
+### Link da Documentação Postman
+
+#### [API_LAB_ECOMMERC](https://documenter.getpostman.com/view/22363157/2s8YzL5miF)
+
+### Link da API Render
+
+#### [API_RENDER](https://labecommerce-back.onrender.com)
+
+##
+
+### O que Funciona 
+
+##### Endpoints 
+ -- GET (getAllCharacters)
+ -- PUT (createCharecters)
+ -- DELETE (deleteCharacter)
+
+### O que Não Funciona
+
+##
+
+### Autor 
+#### Byron Smith
