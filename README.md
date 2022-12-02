@@ -8,7 +8,7 @@
 
 ### Link da API Render
 
-#### [API_RENDER](https://labecommerce-back.onrender.com)
+#### https://labecommerce-back.onrender.com
 
 ##
 
